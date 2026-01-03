@@ -1,0 +1,50 @@
+{
+    "name": "abdasis/laravel-datatable",
+    "description": "A powerful Laravel + React datatable package with server-side processing, advanced filtering, sorting, and column management",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "datatable",
+        "react",
+        "tanstack-table",
+        "inertia",
+        "pagination",
+        "filtering",
+        "sorting"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdasis",
+            "email": "abdasis@example.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": "^11.0|^12.0",
+        "illuminate/database": "^11.0|^12.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^9.0",
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Abdasis\\LaravelDatatable\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Abdasis\\LaravelDatatable\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Abdasis\\LaravelDatatable\\DatatableServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

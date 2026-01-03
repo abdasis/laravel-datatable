@@ -1,0 +1,35 @@
+{
+  "name": "@abdasis/laravel-datatable",
+  "version": "1.0.0",
+  "description": "React components for Laravel Datatable package",
+  "main": "resources/js/index.ts",
+  "types": "resources/js/index.ts",
+  "keywords": [
+    "laravel",
+    "datatable",
+    "react",
+    "tanstack-table",
+    "inertia"
+  ],
+  "author": "Abdasis",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0",
+    "@tanstack/react-table": "^8.0.0",
+    "@inertiajs/react": "^2.0.0",
+    "lucide-react": "^0.0.0",
+    "sonner": "^1.0.0",
+    "moment": "^2.29.0",
+    "zustand": "^4.0.0",
+    "react-select": "^5.0.0",
+    "laravel-react-i18n": "^2.0.0",
+    "@hugeicons/react": "^1.0.0",
+    "@hugeicons/core-free-icons": "^1.0.0"
+  },
+  "files": [
+    "resources/js",
+    "README.md",
+    "LICENSE"
+  ]
+}
