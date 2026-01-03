@@ -1,7 +1,10 @@
 # Laravel Datatable
 
-[![Latest Version](https://img.shields.io/packagist/v/abdasis/laravel-datatable.svg)](https://packagist.org/packages/abdasis/laravel-datatable)
-[![License](https://img.shields.io/packagist/l/abdasis/laravel-datatable.svg)](https://packagist.org/packages/abdasis/laravel-datatable)
+[![Latest Version](https://img.shields.io/packagist/v/abdasis/laravel-datatable.svg?style=flat-square)](https://packagist.org/packages/abdasis/laravel-datatable)
+[![GitHub Release](https://img.shields.io/github/v/release/abdasis/laravel-datatable?style=flat-square)](https://github.com/abdasis/laravel-datatable/releases)
+[![License](https://img.shields.io/packagist/l/abdasis/laravel-datatable.svg?style=flat-square)](LICENSE)
+[![Total Downloads](https://img.shields.io/packagist/dt/abdasis/laravel-datatable.svg?style=flat-square)](https://packagist.org/packages/abdasis/laravel-datatable)
+[![GitHub Stars](https://img.shields.io/github/stars/abdasis/laravel-datatable?style=flat-square)](https://github.com/abdasis/laravel-datatable/stargazers)
 
 A powerful Laravel + React datatable package with server-side processing, advanced filtering, sorting, and column management. Built with Laravel 12, React 19, Inertia.js, TanStack Table, and Spatie Laravel Data.
 
